@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kira2107
 - 👀 I’m interested in Ethical Hacking and Gaming 
-- 🌱 I’m currently learning to be an Data Analyst
+- 🌱 I’m currently learning to be a Game Developer!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via mail(hritish2001@gmail.com)
 
