@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Kira2107
-- 👀 I’m interested in Ethical Hacking and Gaming 
-- 🌱 I’m currently learning to be a Game Developer!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via mail(hritish2001@gmail.com)
+Hey there! 👋 I’m a game development student on a mission to bring creative worlds to life. I’m passionate about building interactive experiences and always excited to learn new skills along the way. Whether it’s coding, design, or diving into new game mechanics, I’m constantly experimenting and growing. Let’s build something fun together!
 
 <!---
 Kira2107/Kira2107 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
